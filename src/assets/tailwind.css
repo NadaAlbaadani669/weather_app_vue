@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.icons{
+    @apply text-xl hover:text-weather-secondary duration-150 cursor-pointer
+}
